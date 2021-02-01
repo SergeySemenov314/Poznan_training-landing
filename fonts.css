@@ -1,0 +1,36 @@
+
+@font-face {
+    font-family: 'League Gothic';
+    src: url('fonts/LeagueGothic/LeagueGothic.woff2') format('woff2'),
+        url("fonts/LeagueGothic/LeagueGothic.ttf") format("truetype"),
+        url('fonts/LeagueGothic/LeagueGothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Arial MT';
+    src: url('fonts/ArialMT/ArialMT.woff2') format('woff2'),
+        url('fonts/ArialMT/ArialMT.woff') format('woff'),
+        url('fonts/ArialMT/ArialMT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Arial MT';
+    src: url('fonts/ArialMT/Arial-ItalicMT.woff2') format('woff2'),
+        url('fonts/ArialMT/Arial-ItalicMT.woff') format('woff'),
+        url('fonts/ArialMT/Arial-ItalicMT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Arial MT';
+    src: url('fonts/ArialMT/Arial-BoldMT.woff2') format('woff2'),
+        url('fonts/ArialMT/Arial-BoldMT.woff') format('woff'),
+        url('fonts/ArialMT/Arial-BoldMT.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

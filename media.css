@@ -1,0 +1,276 @@
+@media(min-width: 768px) and (max-width: 1020px) {
+    body {
+        padding: 0 19px;
+    }
+}
+
+@media(max-width: 576px) {
+    body {
+        padding: 10px;
+    }
+}
+
+@media(max-width: 576px) {
+    .logo-adress {
+        margin-left: 0;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+                flex-direction: column;
+        -webkit-box-align: center;
+                align-items: center;
+        margin-bottom: 34px;
+    }
+
+    .logo {
+        margin-bottom: 19px;
+        font-size: 53px;
+    }
+
+    .adress-image {
+        width: 23px;
+    }
+
+    address a {
+        margin-left: 12px;
+    }
+}
+
+@media(max-width: 576px) {
+    header li {
+        margin-right: 0;
+
+    }
+
+    .button-blue {
+        font-size: 11px;
+    }
+}
+
+/* -----------------main-image------------------- */
+
+
+@media(max-width: 576px) {
+    h1 {
+        width: 235px;
+    }
+}
+
+@media(min-width: 768px) and (max-width: 1100px) {
+    .person {
+        margin-left: 83px;
+    }
+
+
+}
+
+@media(max-width: 576px) {
+    .person:nth-child(2n) {
+        display: none;
+    }
+
+}
+
+/*=------------------- ниже main-image------------------- */
+
+@media(max-width: 576px) {
+    .content-box {
+        flex-wrap: wrap;
+        border-top: none;
+        padding: 0;
+        padding-top: 30px;
+    }
+}
+
+
+/*--------------------- aside-------------------------------- */
+
+@media(max-width: 576px) {
+    aside {
+        -webkit-box-ordinal-group: 3;
+                order: 2;
+        width: 299px;
+        margin-top: 21px;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+/* --------------author---------------------- */
+
+@media(max-width: 576px) {
+    .component-author article {
+        font-size: 17px;
+
+    }
+
+    h4 {
+        font-size: 26px;
+        line-height: 23px;
+    }
+
+
+}
+
+/* ------------------RELATED POSTS---------------------- */
+
+@media(max-width: 576px) {
+    .related-post {
+        border-right: none;
+    }
+}
+
+@media(max-width: 576px) {
+
+    .particular-post {
+        margin-bottom: 36px;
+    }
+
+    .particular-post img:first-child {
+        width: 79px;
+    }
+
+    .particular-post p {
+        font-size: 14px;
+    }
+
+    .link-comments {
+        font-size: 13px;
+    }
+
+}
+
+/* ---------------Currency============= */
+
+@media(max-width: 576px) {
+    .currency {
+        border-right: none;
+    }
+}
+
+@media(max-width: 576px) {
+
+    td,
+    th {
+        padding: 10px 11px 8px 11px;
+    }
+
+    table {
+        font-size: 20px;
+    }
+
+    td img {
+        width: 24px;
+    }
+
+}
+
+/*---------------------- central part------------------- */
+
+
+@media(max-width: 576px) {
+    .central-contant {
+        -webkit-box-ordinal-group: 2;
+                order: 1;
+    }
+}
+
+@media(max-width: 576px) {
+    .main-post {
+        padding-right: 13px;
+    }
+
+    .opinion-box {
+        display: block;
+    }
+
+    .icons-box {
+        margin-bottom: 10px;
+    }
+}
+
+@media(max-width: 576px) {
+    .opinion-box p {
+        font-size: 14px;
+    }
+}
+
+/* -------------secondary posts---------------------------- */
+
+@media(max-width: 576px) {
+    .secondary-post-box {
+        padding-left: 0;
+    }
+}
+
+@media(min-width: 768px) and (max-width: 1100px) {
+    .secondary-post {
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+
+    }
+}
+
+@media(max-width: 576px) {
+    .secondary-post {
+        width: 301px;
+        margin-right: 0;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+}
+
+@media(max-width: 576px) {
+    .secondary-post-inner {
+        padding-right: 20px;
+    }
+}
+
+@media(max-width: 576px) {
+    .secondary-post-inner article {
+        font-size: 14px;
+    }
+
+    .secondary-post-author {
+        font-size: 13px;
+    }
+}
+
+@media(max-width: 576px) {
+    .advertisement-place {
+        width: 300px;
+        margin-left: 0;
+        font-size: 14px;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+@media(max-width: 576px) {
+    .footer-box {
+        margin: 0;
+    }
+}
+
+@media(max-width: 576px) {
+    .small-logo {
+        font-size: 23px;
+        line-height: 20px;
+    }
+}
+
+@media(max-width: 576px) {
+    .footer-box li {
+        font-size: 13px;
+    }
+}
+
+@media(max-width: 576px) {
+    .rights-reserved {
+        font-size: 12px;
+    }
+}
